@@ -30,7 +30,7 @@ Let us consider example of length 3 of given cipher text
 The implementation of above made in python which is available in code file.
 
 by executing it we get length of key 
-## LENGTH OF THE KEY IS 5
+**LENGTH OF THE KEY IS 5
 
 *For the given cipher text it is found key length as 5.*
 

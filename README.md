@@ -10,9 +10,11 @@ KEY: CRYPT
 
 # PROCEDURE:
 
-**1. Finding Key Length by Friedman Test(Uses the index of coincidence)
+1. Finding Key Length by Friedman Test(Uses the index of coincidence)
+
 2. Finding Key by Chi-squared statistic.
-3. Finding Plain text by founded key.**
+
+3. Finding Plain text by founded key.
 
 ## 1.Finding Key Length by Friedman Test(Uses the index of coincidence):
 *The Index of Coincidence is a statistical technique that gives an indication of how English-like a piece of text is. Generally if text is similar to English, we will have index of coincidence around 0.06. So we will find the index of coincidence considering the different lengths.*
